@@ -2,7 +2,31 @@
 
 You can create shopping list in this application. Afterwards, you can send the created list as a message, e-mail, etc. ways to share. You can delete the product you have added to the list. You can search from shopping sites about the products in the list.
 
-![simulator_screenshot_C1CBFD97-8937-466F-9F2C-663C8CBD1C7B](https://user-images.githubusercontent.com/82471515/174566916-64168fca-2b5d-4ab6-ac62-b8fe9fe6e557.png) | ![simulator_screenshot_5EF9F843-58CE-45F1-A553-D0D5E7A0D3DF](https://user-images.githubusercontent.com/82471515/174566968-46b04c08-1e4d-4a47-bb1e-04a0e8b7d475.png):
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/82471515/174566916-64168fca-2b5d-4ab6-ac62-b8fe9fe6e557.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+
+
+
+
+
+
+
+
+![simulator_screenshot_C1CBFD97-8937-466F-9F2C-663C8CBD1C7B](https://user-images.githubusercontent.com/82471515/174566916-64168fca-2b5d-4ab6-ac62-b8fe9fe6e557.png) 
+
+![simulator_screenshot_5EF9F843-58CE-45F1-A553-D0D5E7A0D3DF](https://user-images.githubusercontent.com/82471515/174566968-46b04c08-1e4d-4a47-bb1e-04a0e8b7d475.png):
 
 
 :-------------------------:|:-------------------------:
