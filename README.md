@@ -5,9 +5,9 @@ You can create shopping list in this application. Afterwards, you can send the c
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/82471515/174566916-64168fca-2b5d-4ab6-ac62-b8fe9fe6e557.png" width=270 height=520></td>
-    <td><img src="https://user-images.githubusercontent.com/82471515/174566968-46b04c08-1e4d-4a47-bb1e-04a0e8b7d475.png" width=270 height=520></td>
-    <td><img src="https://user-images.githubusercontent.com/82471515/174567096-45d2fd82-d18d-4241-b731-d204c49f507a.png" width=270 height=520></td>
+    <td><img src="https://user-images.githubusercontent.com/82471515/174566916-64168fca-2b5d-4ab6-ac62-b8fe9fe6e557.png" width=300 height=550></td>
+    <td><img src="https://user-images.githubusercontent.com/82471515/174566968-46b04c08-1e4d-4a47-bb1e-04a0e8b7d475.png" width=300 height=550></td>
+    <td><img src="https://user-images.githubusercontent.com/82471515/174567096-45d2fd82-d18d-4241-b731-d204c49f507a.png" width=300 height=550></td>
  </table>
  <table>
   <tr>
