@@ -10,6 +10,13 @@ You can create shopping list in this application. Afterwards, you can send the c
     <td><img src="https://user-images.githubusercontent.com/82471515/174567096-45d2fd82-d18d-4241-b731-d204c49f507a.png" width=270 height=480></td>
   </tr>
  </table>
+ <table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/82471515/174567178-9bf8b661-5e73-499e-bb5d-66d8074c8e5c.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/82471515/174567207-c5bcb65e-e715-4da4-93c7-03c5f4a0d526.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/82471515/174567223-db23311e-927f-4dfb-9ab2-492c3d2cd61e.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
